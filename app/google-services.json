@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246172124326",
+    "firebase_url": "https://inked-studio.firebaseio.com",
+    "project_id": "inked-studio",
+    "storage_bucket": "inked-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246172124326:android:0393e7863299a1c4",
+        "android_client_info": {
+          "package_name": "com.example.ssboss.inkedstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246172124326-euugr6mq1au2ghfj9b5oqe5addk47v4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ssboss.inkedstudio",
+            "certificate_hash": "A61E51E0257D9B0767ADA92AF6142F18EAEB3BAB"
+          }
+        },
+        {
+          "client_id": "246172124326-efgo5977mbbph8sg0j5vk5lc6qtv758a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+         "current_key": "AIzaSyCnA178R8y-UPOje1dF4PBylWwCnONzOow "
+        }
+        ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246172124326-efgo5977mbbph8sg0j5vk5lc6qtv758a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
